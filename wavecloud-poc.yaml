@@ -28,7 +28,7 @@ spec:
       containers:
       - name: springboot-gitops
 #nykraj/gitops:v2 nykraj/gitopspoc:v1      
-        image: nykraj/gitops:v2
+        image: nykraj/gitopspoc:v1
         resources:
           requests:
             memory: "700Mi"

@@ -16,8 +16,6 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   name: "springboot-gitops"
-  annotations:
-    flux.weave.works/automated: 'true'
 spec:
   replicas: 1
   template:

@@ -1,0 +1,1 @@
+{"jobID":"487c8695-8918-8104-b690-64220e798782","spec":{"type":"policy","cause":{"Message":"","User":"Rajesh Nayak \u003crajnraj_80@yahoo.co.in\u003e"},"spec":{"default:deployment/springboot-gitops":{"add":null,"remove":{"automated":"true"}}}},"result":null}
